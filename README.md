@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="text-align: center">
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NavadeepGaneshU" alt="Hits">
+    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NavadeepGaneshU" alt="Profile Hits">
 </div>
 
 <!--
