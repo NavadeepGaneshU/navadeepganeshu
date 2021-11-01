@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align: center">
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NavadeepGaneshU" alt="Profile Hits">
-</div>
+![](https://komarev.com/ghpvc/?username=NavadeepGaneshU)
 
 <!--
 **NavadeepGaneshU/navadeepganeshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
